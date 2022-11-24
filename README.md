@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @clapelosi
 - 👀 I’m interested in Data Science, ML Enginnering and ML-Ops
-- 🌱 I’m currently learning thoese and working on build my Repositories on GitHUb 
+- 🌱 I’m currently learning those and working on build my Repositories on GitHUb 
 - 💞️ I’m looking to collaborate on ML Pipelines
 - 📫 How to reach me: cla.pelosi.10@gmail.com
 <!---
